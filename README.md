@@ -22,3 +22,9 @@ A Java-based secure file transfer system that uses AES encryption to protect fil
 - SecureClient.java
 - SecureServer.java
 - DatabaseManager.java
+
+## Usage
+1. Start the server
+2. Connect the client
+3. Select a file to transfer
+4. Transfer the file securely
