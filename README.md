@@ -51,3 +51,6 @@ This project is intended for educational and learning purposes.
 
 ## Contributing
 Suggestions and improvements are welcome for enhancing the project.
+
+## Project Purpose
+The purpose of this project is to provide a simple and secure method for transferring files using encryption techniques in Java.
