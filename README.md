@@ -54,3 +54,8 @@ Suggestions and improvements are welcome for enhancing the project.
 
 ## Project Purpose
 The purpose of this project is to provide a simple and secure method for transferring files using encryption techniques in Java.
+
+## Requirements
+- Java 8 or above
+- SQLite Database
+- SQLite JDBC Driver
