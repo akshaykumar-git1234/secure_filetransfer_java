@@ -48,3 +48,6 @@ Java Developer and Computer Applications Student
 
 ## License
 This project is intended for educational and learning purposes.
+
+## Contributing
+Suggestions and improvements are welcome for enhancing the project.
