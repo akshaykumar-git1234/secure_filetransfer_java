@@ -41,3 +41,7 @@ A Java-based secure file transfer system that uses AES encryption to protect fil
 3. Data is transferred to the server
 4. Server receives the encrypted file
 5. File is decrypted for authorized use
+
+## Author
+Akshay Kumar
+Java Developer and Computer Applications Student
