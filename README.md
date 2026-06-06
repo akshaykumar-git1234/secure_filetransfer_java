@@ -45,3 +45,6 @@ A Java-based secure file transfer system that uses AES encryption to protect fil
 ## Author
 Akshay Kumar
 Java Developer and Computer Applications Student
+
+## License
+This project is intended for educational and learning purposes.
