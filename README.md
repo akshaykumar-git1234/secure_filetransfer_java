@@ -34,3 +34,10 @@ A Java-based secure file transfer system that uses AES encryption to protect fil
 - Improved user interface
 - Enhanced security features
 - Better error handling
+
+## Workflow
+1. Client selects a file
+2. File is encrypted
+3. Data is transferred to the server
+4. Server receives the encrypted file
+5. File is decrypted for authorized use
