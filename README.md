@@ -16,6 +16,7 @@ A Java-based secure file transfer system that uses AES encryption to protect fil
 - Java
 - AES Cryptography
 - SQLite
+- Java Socket Programming
 
 ## Project Structure
 - AESU.java
